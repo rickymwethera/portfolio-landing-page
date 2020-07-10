@@ -3,3 +3,10 @@
     float: left;
     margin: 30px
 }
+.sidebar {
+    width: 30%;
+    float: right;
+}
+.important {
+    color: blue;
+}
